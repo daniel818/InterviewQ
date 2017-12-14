@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc1e92b-f902-48ce-bd63-8a612962d3b7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/fib/index.js" afterPath="$PROJECT_DIR$/exercises/fib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/circular/index.js" afterPath="$PROJECT_DIR$/exercises/circular/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/fromlast/index.js" afterPath="$PROJECT_DIR$/exercises/fromlast/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/linkedlist/index.js" afterPath="$PROJECT_DIR$/exercises/linkedlist/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/linkedlist/test.js" afterPath="$PROJECT_DIR$/exercises/linkedlist/test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/matrix/index.js" afterPath="$PROJECT_DIR$/exercises/matrix/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/pyramid/index.js" afterPath="$PROJECT_DIR$/exercises/pyramid/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/qfroms/index.js" afterPath="$PROJECT_DIR$/exercises/qfroms/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/queue/index.js" afterPath="$PROJECT_DIR$/exercises/queue/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/stack/index.js" afterPath="$PROJECT_DIR$/exercises/stack/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/vowels/index.js" afterPath="$PROJECT_DIR$/exercises/vowels/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/weave/index.js" afterPath="$PROJECT_DIR$/exercises/weave/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/weave/queue.js" afterPath="$PROJECT_DIR$/exercises/weave/queue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/midpoint/index.js" afterPath="$PROJECT_DIR$/exercises/midpoint/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,42 +21,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/weave/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/stack/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/qfroms/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="directions.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises/linkedlist/directions.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,14 +31,83 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises/linkedlist/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="237">
+              <caret line="114" column="37" lean-forward="true" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="37" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/midpoint/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="linkedlist.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/circular/linkedlist.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-341">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!block;n#constructor#0;n#LinkedList#0" expanded="false" />
+                <element signature="n#!!block;n#clear#0;n#LinkedList#0" expanded="false" />
+                <element signature="n#!!block;n#size#0;n#LinkedList#0" expanded="false" />
+                <element signature="n#!!block;n#getAt#0;n#LinkedList#0" expanded="false" />
+                <element signature="n#!!block;n#insertAt#0;n#LinkedList#0" expanded="false" />
+                <element signature="n#!!block;n#removeFirst#0;n#LinkedList#0" expanded="false" />
+                <element signature="n#!!block;n#removeLast#0;n#LinkedList#0" expanded="false" />
+                <element signature="n#!!block;n#removeAt#0;n#LinkedList#0" expanded="false" />
+                <element signature="n#!!block;n#getFirst#0;n#LinkedList#0" expanded="false" />
+                <element signature="n#!!block;n#insertFirst#0;n#LinkedList#0" expanded="false" />
+                <element signature="n#!!block;n#getLast#0;n#LinkedList#0" expanded="false" />
+                <element signature="n#!!block;n#insertLast#0;n#LinkedList#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/circular/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercises/fromlast/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="linkedlist.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/midpoint/linkedlist.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="160" column="0" lean-forward="true" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -89,31 +115,9 @@
       <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises/linkedlist/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="-340">
+              <caret line="274" column="8" lean-forward="false" selection-start-line="274" selection-start-column="8" selection-end-line="274" selection-end-column="8" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stack.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/qfroms/stack.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="queue.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/weave/queue.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -141,8 +145,12 @@
         <option value="$PROJECT_DIR$/exercises/weave/index.js" />
         <option value="$PROJECT_DIR$/exercises/stack/index.js" />
         <option value="$PROJECT_DIR$/exercises/qfroms/index.js" />
-        <option value="$PROJECT_DIR$/exercises/linkedlist/test.js" />
         <option value="$PROJECT_DIR$/exercises/linkedlist/index.js" />
+        <option value="$PROJECT_DIR$/exercises/linkedlist/test.js" />
+        <option value="$PROJECT_DIR$/exercises/midpoint/linkedlist.js" />
+        <option value="$PROJECT_DIR$/exercises/midpoint/index.js" />
+        <option value="$PROJECT_DIR$/exercises/circular/index.js" />
+        <option value="$PROJECT_DIR$/exercises/fromlast/index.js" />
       </list>
     </option>
   </component>
@@ -218,61 +226,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="weave" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewQ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewQ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exercises" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewQ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewQ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exercises" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="qfroms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewQ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewQ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exercises" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linkedlist" />
+              <option name="myItemId" value="fromlast" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -422,12 +376,12 @@
       <option name="presentableId" value="Default" />
       <updated>1512651326550</updated>
       <workItem from="1512651328369" duration="16737000" />
-      <workItem from="1513113091647" duration="5414000" />
+      <workItem from="1513113091647" duration="12858000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22151000" />
+    <option name="totallyTimeSpent" value="29595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -476,7 +430,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -644,18 +598,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/linkedlist/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="114" column="37" lean-forward="true" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/linkedlist/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state relative-caret-position="-340">
+          <caret line="274" column="8" lean-forward="false" selection-start-line="274" selection-start-column="8" selection-end-line="274" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/linkedlist/index.js">
+    <entry file="file://$PROJECT_DIR$/exercises/circular/linkedlist.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="-341">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#constructor#0;n#LinkedList#0" expanded="false" />
+            <element signature="n#!!block;n#clear#0;n#LinkedList#0" expanded="false" />
+            <element signature="n#!!block;n#size#0;n#LinkedList#0" expanded="false" />
+            <element signature="n#!!block;n#getAt#0;n#LinkedList#0" expanded="false" />
+            <element signature="n#!!block;n#insertAt#0;n#LinkedList#0" expanded="false" />
+            <element signature="n#!!block;n#removeFirst#0;n#LinkedList#0" expanded="false" />
+            <element signature="n#!!block;n#removeLast#0;n#LinkedList#0" expanded="false" />
+            <element signature="n#!!block;n#removeAt#0;n#LinkedList#0" expanded="false" />
+            <element signature="n#!!block;n#getFirst#0;n#LinkedList#0" expanded="false" />
+            <element signature="n#!!block;n#insertFirst#0;n#LinkedList#0" expanded="false" />
+            <element signature="n#!!block;n#getLast#0;n#LinkedList#0" expanded="false" />
+            <element signature="n#!!block;n#insertLast#0;n#LinkedList#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/midpoint/linkedlist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="160" column="0" lean-forward="true" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/midpoint/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/circular/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/fromlast/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
