@@ -20,12 +20,12 @@ function fromLast(list, n) {
     n--;
   }
 
-  while(fast.next){
-      fast = fast.next
-      slow = slow.next
+  while (fast.next) {
+    fast = fast.next;
+    slow = slow.next;
   }
 
-  return slow
+  return slow;
 }
 
 module.exports = fromLast;
